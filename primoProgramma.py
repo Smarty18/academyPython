@@ -1,4 +1,4 @@
-print("Hello world")
+print("hello world")
 
 print("ciao")
 #ok é comparso
